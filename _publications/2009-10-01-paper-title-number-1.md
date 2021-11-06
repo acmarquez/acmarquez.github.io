@@ -1,7 +1,7 @@
 ---
 title: "ERN Abstract 2022 Submission"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://acmarquez.github.io/publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-09-27
 paperurl: 'http://acmarquez.github.io/files/ERNAbstract2022.pdf'
