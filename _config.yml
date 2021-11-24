@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Allen Marquez"
-  avatar           : "IMG_0048.jpg"
+  avatar           : "/images/IMG_0048.jpg"
   bio              : "B.S. Computer Science CSULA 22'"
   location         : "Los Angeles, California"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  'allen[dot]c[dot]marquez[at]gmail[dot]'
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 'https://www.linkedin.com/in/csula-allen/'
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
