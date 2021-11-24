@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Allen Marquez"
-  avatar           : "/images/IMG_0048.jpg"
+  avatar           : "images/IMG_0048.jpg"
   bio              : "B.S. Computer Science CSULA 22'"
   location         : "Los Angeles, California"
   employer         :
