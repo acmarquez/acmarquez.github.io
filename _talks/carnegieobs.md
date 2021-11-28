@@ -2,7 +2,7 @@
 title: "Inferring Stellar Labels from Optical High-Resolution Spectra with The Payne"
 collection: talks
 type: "Talk"
-# permalink: /talks/2012-03-01-talk-1
+permalink: /talks/carnegieobs
 venue: "Virtual"
 date: 2020-08-07
 location: "Virtually"
