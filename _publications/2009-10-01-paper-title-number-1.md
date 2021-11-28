@@ -9,5 +9,5 @@ paperurl: 'http://acmarquez.github.io/files/ERNAbstract2022.pdf'
 ---
 Abstract submission for the ERN 2022 Conference(accepted in November 2021).
 
-[Download paper here](http://acmarquez.github.io/files/ERNAbstract2022.pdf)
+[Download abstract here](http://acmarquez.github.io/files/ERNAbstract2022.pdf)
 
