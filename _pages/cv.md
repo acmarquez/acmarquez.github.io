@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[CV](www.google.com)
+[CV](http://acmarquez.github.io/files/GradSchool_CV.pdf)
