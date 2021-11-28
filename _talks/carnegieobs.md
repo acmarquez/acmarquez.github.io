@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/carnegieobs
 venue: "Virtual"
 date: 2020-08-07
-location: "Virtually"
+location: "Carnegie Observatories"
 ---
 [Inferring Stellar Labels from Optical High-Resolution Spectra with The Payne](https://www.youtube.com/watch?v=4k2irw01ycQ)
 
