@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Abstracts and Posters"
 permalink: /publications/
 author_profile: true
 ---
