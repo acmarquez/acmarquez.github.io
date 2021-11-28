@@ -1,9 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://acmarquez.github.io/files/GradSchool_CV.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+[CV](www.google.com)
