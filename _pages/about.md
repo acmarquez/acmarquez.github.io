@@ -19,7 +19,7 @@ I want to help build the next generation of STEM researchers. I aim to provide m
 
 Research Interests
 ======
-Machine Learning, Differential Privacy, and High Performance Computing
+Machine Learning, Distributed Learning, Differential Privacy, and Blockchain
 
 Other Stuff
 ======
