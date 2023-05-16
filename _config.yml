@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Allen Marquez"
 title_separator          : "-"
 name                     : &name "Allen Marquez"
-description              : &description "CREST-CEaS Fellow @ California State University, Los Angeles"
+description              : &description "Software Engineer at Northrop Grumman"
 url                      : https://acmarquez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "acmarquez.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 'csula-allen'
+  linkedin         : 'ngc-allen'
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       : 
