@@ -11,11 +11,13 @@ redirect_from:
 
 About Me
 ======
-Hello! I am an undergraduate from California State University, Los Angeles (CSULA) who is graduating with a __B.S. in Computer Science__ in Spring 2022. I have had the great fortune to work at different research institutions (Carnegie Mellon University, Carnegie Observatories, and CSULA) in a wide range of interesting research topics:  ___Astrophysics, Materials Science, and Differential Privacy___.
+Hi everyone! I am a Software Engineer at Northrop Grumman. I recieved my B.S. in Computer Science in 2022. I have had the great fortune to work at different research institutions (Carnegie Mellon University, Carnegie Observatories, and CSULA) in a wide range of interesting research topics:  ___Astrophysics, Materials Science, and Differential Privacy___.
 
-My current goals are to ___obtain a Ph.D___. and pursue a ___mixture of research in an industry setting and pursue teaching at the East Los Angeles College___ and ___give back to the community that raised me___. 
+I will be applying for an M.S. in Data Science for Spring 2024, and continue sharepning my skills in machine learning.
 
-I want to help build the next generation of STEM researchers. I aim to provide much needed oppurtunities to under represented communities by building programs that provide students of all levels the resources needed to help them gain exposure and excel! 
+My career goals are to do research in an industry setting in machine learning & deep learning. 
+
+I have been fortunate to be part of the Adelante Employee Resource Group (ERG) where I have attended various career panels, mock interviews, and outreach efforts to give back to the future generation of STEM.
 
 Research Interests
 ======
