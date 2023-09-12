@@ -13,7 +13,7 @@ About Me
 ======
 Hi everyone! I am a Software Engineer at Northrop Grumman. I received my B.S. in Computer Science in 2022 from California State University, Los Angeles (CSULA). 
 
-I have had the great fortune to work at different research institutions (Carnegie Mellon University, Carnegie Observatories, and CSULA) in a wide range of exciting research topics:  Differential Privacy, Astrophysics, and Materials Science___ (respectively).
+I have had the great fortune to work at different research institutions (Carnegie Mellon University, Carnegie Observatories, and CSULA) in a wide range of exciting research topics:  ___Differential Privacy, Astrophysics, and Materials Science___ (respectively).
 
 I will apply for an M.S. in Applied Data Science for Spring 2024 and strive to become a lead figure in machine learning and data analysis.
 
