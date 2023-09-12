@@ -11,13 +11,17 @@ redirect_from:
 
 About Me
 ======
-Hi everyone! I am a Software Engineer at Northrop Grumman. I recieved my B.S. in Computer Science in 2022. I have had the great fortune to work at different research institutions (Carnegie Mellon University, Carnegie Observatories, and CSULA) in a wide range of interesting research topics:  ___Astrophysics, Materials Science, and Differential Privacy___.
+Hi everyone! I am a Software Engineer at Northrop Grumman. I received my B.S. in Computer Science in 2022 from California State University, Los Angeles (CSULA). 
 
-I will be applying for an M.S. in Data Science for Spring 2024, and continue sharepning my skills in machine learning.
+I have had the great fortune to work at different research institutions (Carnegie Mellon University, Carnegie Observatories, and CSULA) in a wide range of exciting research topics:  Differential Privacy, Astrophysics, and Materials Science___ (respectively).
 
-My career goals are to do research in an industry setting in machine learning & deep learning. 
+I will apply for an M.S. in Applied Data Science for Spring 2024 and strive to become a lead figure in machine learning and data analysis.
 
-I have been fortunate to be part of the Adelante Employee Resource Group (ERG) where I have attended various career panels, mock interviews, and outreach efforts to give back to the future generation of STEM.
+My career goal is to be at the intersection of research & industry, where I utilize machine learning to tackle society's most pressing problems. While also working to ensure that these algorithms meet the societal values of fairness and privacy.
+
+Apart from that, I have also been involved in various STEM outreach efforts, such as career panels, mock interviews, and other events to give back to the future generation of STEM. Which has been made possible through Northrop Grumman's Adelante Employee Resource Group.
+
+Feel free to reach out!
 
 Research Interests
 ======
