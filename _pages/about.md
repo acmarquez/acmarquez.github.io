@@ -15,7 +15,7 @@ Hi everyone! I am a Software Engineer at Northrop Grumman. I received my B.S. in
 
 I have had the great fortune to work at different research institutions (Carnegie Mellon University, Carnegie Observatories, and CSULA) in a wide range of exciting research topics:  ___Differential Privacy, Astrophysics, and Materials Science___ (respectively).
 
-I will apply for an M.S. in Applied Data Science for Spring 2024 and strive to become a lead figure in machine learning and data analysis.
+I will be applying for a M.S. in Applied Data Science for Spring 2024 and strive to become a lead figure in machine learning and data analysis.
 
 My career goal is to be at the intersection of research & industry, where I utilize machine learning to tackle society's most pressing problems. While also working to ensure that these algorithms meet the societal values of fairness and privacy.
 
